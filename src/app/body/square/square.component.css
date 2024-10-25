@@ -1,0 +1,33 @@
+.square {
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color: white;
+}
+
+.square_red, .square_blue, .square_green, .square_orange {
+  height: 180px;
+  width: 180px;
+  margin: 10px;
+}
+
+.square_red {
+  background-color: red;
+}
+
+.square_blue {
+  background-color: blue;
+}
+
+.square_green {
+  background-color: green;
+}
+
+.square_orange {
+  background-color: orange;
+}

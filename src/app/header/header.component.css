@@ -1,0 +1,13 @@
+header{
+  color: white;
+  align-content: center;
+  text-align: center;
+  background-color: purple;
+  height: 50px;
+  position: fixed;
+  z-index: 1;
+  top:0;
+  width:100%;
+
+
+}
